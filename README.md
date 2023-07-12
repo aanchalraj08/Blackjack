@@ -1,4 +1,4 @@
-# Fun BlackJack Game
+# Fun BlackJack Game 🃏✌
 
 Quick start:
 
